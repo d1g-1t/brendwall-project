@@ -1,0 +1,17 @@
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+*.log
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
