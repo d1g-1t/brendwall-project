@@ -26,7 +26,6 @@ python -m pip install --upgrade pip && pip install -r requirements.txt
 ### Шаг 4: Применение миграций
 
 ```
-python manage.py makemigrations
 python manage.py migrate
 ```
 
